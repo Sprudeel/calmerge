@@ -1,5 +1,7 @@
 <?php
 
+namespace Tests\Feature;
+
 use App\Models\CalendarSource;
 use App\Models\Feed;
 use Illuminate\Foundation\Testing\RefreshDatabase;
